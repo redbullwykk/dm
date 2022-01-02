@@ -1,12 +1,22 @@
 {
-    "theme_color": "#fff5eb",
-    "background_color": "#fff5eb",
+    "theme_color": "#FFD700",
+    "background_color": "#FFD700",
     "display": "standalone",
     "start_url": "/dm/",
     "name": "Dhamma",
     "short_name": "DM",
     "description": "Pa Htan App",
     "icons": [
+        {
+            "src": "img/icon-120x120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-180x180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
         {
             "src": "img/icon-192x192.png",
             "sizes": "192x192",
