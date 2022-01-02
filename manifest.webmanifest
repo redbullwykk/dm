@@ -8,12 +8,12 @@
     "description": "Pa Htan App",
     "icons": [
         {
-            "src": "img/icon-120x120.png",
+            "src": "img/icon-120x120.jpg",
             "sizes": "120x120",
             "type": "image/png"
         },
         {
-            "src": "img/icon-180x180.png",
+            "src": "img/icon-180x180.jpg",
             "sizes": "180x180",
             "type": "image/png"
         },
