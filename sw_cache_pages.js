@@ -1,7 +1,7 @@
 const cacheName = 'v1';
 
 const cacheAssets = [
-  'index.html',
+  '/',
   'amyawai.html',
   'myinttarpot.html',
   'css/style.css',
